@@ -1,6 +1,6 @@
 {
   "name": "fronttigger-config-kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "fronttigger",
   "description": "🗂️ ESLint, Prettier, Stylelint configuration for fronttigger",
   "keywords": [
