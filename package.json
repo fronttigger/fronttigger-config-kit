@@ -18,6 +18,7 @@
     "pnpm": ">= 8"
   },
   "scripts": {
-    "deploy:prettier": "pnpm -F prettier-config-fronttigger run deploy"
+    "deploy:prettier": "pnpm -F prettier-config-fronttigger run deploy",
+    "deploy": "pnpm run deploy:prettier"
   }
 }
