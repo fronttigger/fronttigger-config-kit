@@ -1,0 +1,23 @@
+{
+  "name": "fronttigger-config-kit",
+  "version": "0.0.1",
+  "author": "fronttigger",
+  "description": "🗂️ ESLint, Prettier, Stylelint configuration for fronttigger",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "prettier",
+    "stylelint",
+    "config",
+    "javascript",
+    "typescript",
+    "fronttigger"
+  ],
+  "license": "MIT",
+  "engines": {
+    "pnpm": ">= 8"
+  },
+  "scripts": {
+    "deploy:prettier": "pnpm -F prettier-config-fronttigger run deploy"
+  }
+}
