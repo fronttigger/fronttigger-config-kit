@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config-fronttigger",
+  "name": "@fronttigger/prettier-config-fronttigger",
   "version": "0.0.2",
   "description": "fronttigger's Prettier config",
   "license": "MIT",
