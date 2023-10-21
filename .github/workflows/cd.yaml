@@ -31,3 +31,5 @@ jobs:
 
       - name: 🛫 Deploy
         run: pnpm run deploy
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
