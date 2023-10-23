@@ -5,4 +5,5 @@
 
 컨벤션 규칙을 정의한 Linter/Formatter Configuration의 모음입니다.
 
-- [prettier-config-fronttigger](packages/prettier-config-fronttigger)
+- [@fronttigger/eslint-config-grownbetter](packages/eslint-config-fronttigger)
+- [@fronttigger/prettier-config-grownbetter](packages/prettier-config-fronttigger)

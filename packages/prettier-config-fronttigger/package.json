@@ -1,6 +1,6 @@
 {
   "name": "@fronttigger/prettier-config-fronttigger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "fronttigger's Prettier config",
   "license": "MIT",
   "main": "prettierrc.js",
@@ -23,7 +23,7 @@
     "directory": "packages/prettier-config-fronttigger"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "deploy": "npm publish --access=public",
