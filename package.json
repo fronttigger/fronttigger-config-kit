@@ -21,8 +21,5 @@
     "deploy:eslint": "pnpm -F eslint-config-fronttigger run deploy",
     "deploy:prettier": "pnpm -F prettier-config-fronttigger run deploy",
     "deploy": "pnpm run deploy:eslint && pnpm run deploy:prettier"
-  },
-  "devDependencies": {
-    "typescript": "^5.2.2"
   }
 }
